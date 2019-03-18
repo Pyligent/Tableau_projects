@@ -1,4 +1,8 @@
-# Visualization Assignment - Citi Bike Analytics
+# Citi Bike Analytics
+   
+[https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType](https://public.tableau.com/profile/taojin5273#!/vizhome/CitiBikeMapsinNYC/Dashboard-UserType)
+
+
 
 ## Background
 
